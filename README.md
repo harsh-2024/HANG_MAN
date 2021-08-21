@@ -20,14 +20,16 @@ Stage-1:________Stage-2:__________Stage-3:______Stage-4:________Stage-5:_______S
 
 
 
-This is the HANGMAN game..Welcome to this game..
+This is the HANGMAN game..
+
+               Welcome to this game..
 
 *****OPEN main.py file to start the game*****
 
 
 *You are required to frame a letter that is randomly chosen by the computer  🦾🦾🦾🦾🦾🦾🦾🦾🦾🦾🦾🦾🦾
 
-*If you manage to do so, you save the man.   😢😢😢😢😢😢😢😢😢😢😢  😁😁😁😁😁😁😁
+*If you manage to do so, you save the man.    😁😁😁😁😁😁😁
 
 *If wrong letter is chosen then each wrong attempt will make the man hang till death..    😢😢😢😢😢😢😢😢😢😢😢 
 
