@@ -1,6 +1,8 @@
 # hangman
 This is the HANGMAN game..Welcome to this game..
 
+*****OPEN main.py file to start the game*****
+
 
 *You are required to frame a letter that is randomly chosen by the computer  🦾🦾🦾🦾🦾🦾🦾🦾🦾🦾🦾🦾🦾
 
